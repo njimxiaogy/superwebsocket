@@ -1,0 +1,8 @@
+E:\Cloudwb\Cloud机器人\SuperWebSocketNew\SuperWebSocket\bin\Release\SuperWebSocket.XML
+E:\Cloudwb\Cloud机器人\SuperWebSocketNew\SuperWebSocket\bin\Release\SuperWebSocket.dll
+E:\Cloudwb\Cloud机器人\SuperWebSocketNew\SuperWebSocket\bin\Release\SuperWebSocket.pdb
+E:\Cloudwb\Cloud机器人\SuperWebSocketNew\SuperWebSocket\obj\Release\SuperWebSocket.csprojResolveAssemblyReference.cache
+E:\Cloudwb\Cloud机器人\SuperWebSocketNew\SuperWebSocket\obj\Release\SuperWebSocket.dll
+E:\Cloudwb\Cloud机器人\SuperWebSocketNew\SuperWebSocket\obj\Release\SuperWebSocket.pdb
+E:\Cloudwb\Cloud机器人\SuperWebSocketNew\SuperWebSocket\bin\Release\log4net2.dll
+E:\Cloudwb\Cloud机器人\SuperWebSocketNew\SuperWebSocket\bin\Release\log4net.dll
